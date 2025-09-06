@@ -21,15 +21,9 @@ Key components from the workflow analysis:
 Example interaction (from screenshot):
 - User: "How many Apples do I have in stock?"
 - Agent: "You have 5 Apples in stock."
-- User: "I have bought 5 more add them in the inventory"
+- User: "I have bought 5 more, add them to the inventory."
 - Agent: "I have updated the inventory. You now have a total of 10 Apples in stock."
 
-### Screenshots
-Chat Interface:
-![Chat Interface](chat-interface-screenshot.png)
-
-Workflow Diagram:
-![Workflow Diagram](workflow-diagram-screenshot.png)
 
 ## Setup Instructions
 1. **Prerequisites**:
